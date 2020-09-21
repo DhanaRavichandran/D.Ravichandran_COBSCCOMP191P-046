@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "idiom" : "universal",
+      "filename" : "stop-travel-forbidden-sign-planes-don-t-fly-coronavirus-covid-to-risk-places-prevention-novel-corona-virus-disease-176707004.png",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "filename" : "stop-travel-forbidden-sign-planes-don-t-fly-coronavirus-covid-to-risk-places-prevention-novel-corona-virus-disease-176707005.png",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "filename" : "stop-travel-forbidden-sign-planes-don-t-fly-coronavirus-covid-to-risk-places-prevention-novel-corona-virus-disease-176707006.png",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  }
+}
